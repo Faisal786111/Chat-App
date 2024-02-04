@@ -1,0 +1,10 @@
+To create real time chat applicaiton follow these steps : 
+
+1.First create the Express application using node
+2.Then create the server by using HTTP module
+3.Then use Socket.io module to implement server side.
+4.The create client side Socket.io to connect to the server
+
+
+server(emit) -> client(receive) - countUpdated
+client(emit) -> server(receive) - increment
