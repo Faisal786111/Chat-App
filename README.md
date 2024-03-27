@@ -2,7 +2,7 @@
 
 This project is built on Node.js and socket.io. Users can communicate with each other in a room and create their own rooms to invite friends for chatting.
 
-Share the live site URL with your friends and enjoy chatting together.
+Share the [Live site url](#links) with your friends and enjoy chatting together.
 
 ## Table of Contents
 
