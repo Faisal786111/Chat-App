@@ -39,8 +39,7 @@ The goal of this project is to create a real-time chat application where users c
 
 ### Links
 
-- [Live Site URL](https://chat-app-1yjb.onrender.com/){:target="_blank"}
-
+- <a href="https://chat-app-1yjb.onrender.com/" target="_blank">Live Site URL</a>
 
 ## My Process
 
