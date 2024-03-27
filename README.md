@@ -78,4 +78,3 @@ As security is crucial for any web application, I intend to learn more about imp
 - Twitter - [@Faisal_DevLife](https://twitter.com/Faisal_DevLife)
 - LeetCode - [@faisalkhanisrar](https://leetcode.com/faisalkhanisrar/)
 
-Feel free to provide feedback and suggestions to make this readme more incredible.
